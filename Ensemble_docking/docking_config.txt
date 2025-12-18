@@ -1,0 +1,13 @@
+receptor = pro.pdb
+ligand = lig.mol2
+out = gnina.sdf
+
+center_x = 30.289
+center_y = 57.662
+center_z = 28.908
+
+size_x = 45.0
+size_y = 45.0
+size_z = 45.0
+
+exhaustiveness = 32
